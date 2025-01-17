@@ -1,4 +1,3 @@
-# 💫 About Me:
 # Hi, I'm Brianna T 👋  <br>🎓 Graduate in Software Engineering from Kennesaw State University  <br>💻 Passionate about cloud computing, test automation, and software development  <br>🔍 Actively seeking opportunities in software engineering and QA automation  <br>
 
 
